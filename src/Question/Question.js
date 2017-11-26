@@ -6,7 +6,7 @@ const Question = () => {
     <div>
       <h2>It's working</h2>
       <Card>
-        <h2>Baby I'm the baddes</h2>
+        <h2>Who is the Prime Miniester of Japan?</h2>
       </Card>
     </div>
   )
